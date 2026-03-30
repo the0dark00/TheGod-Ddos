@@ -1,0 +1,298 @@
+2026-03-30 14:58:39,398 - INFO - [Request 82] ✅ Success (200) | Delay: 0.110s | RT: 9.976s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,038 - INFO - [Request 554] ⚠️ Failed (502) | Delay: 0.613s | RT: 9.683s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,177 - INFO - [Request 582] ⚠️ Failed (502) | Delay: 0.491s | RT: 9.758s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,177 - INFO - [Request 146] ⚠️ Failed (502) | Delay: 0.910s | RT: 8.703s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,317 - INFO - [Request 172] ⚠️ Failed (502) | Delay: 0.864s | RT: 9.617s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:41,758 - INFO - [Request 67] ⚠️ Failed (502) | Delay: 0.355s | RT: 10.265s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,207 - INFO - [Request 96] ⚠️ Failed (502) | Delay: 0.585s | RT: 10.129s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,269 - INFO - [Request 789] ⚠️ Failed (502) | Delay: 0.439s | RT: 10.064s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,411 - INFO - [Request 786] ⚠️ Failed (502) | Delay: 0.193s | RT: 10.042s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,512 - INFO - [Request 630] ⚠️ Failed (502) | Delay: 0.555s | RT: 8.277s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:44,530 - INFO - [Request 78] ⚠️ Failed (502) | Delay: 0.535s | RT: 9.770s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:45,295 - INFO - [Request 227] ⚠️ Failed (502) | Delay: 0.775s | RT: 9.907s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:45,768 - INFO - [Request 365] ⚠️ Failed (502) | Delay: 0.243s | RT: 10.568s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:46,930 - INFO - [Request 259] ⚠️ Failed (502) | Delay: 0.293s | RT: 10.405s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:48,261 - INFO - [Request 43] ✅ Success (200) | Delay: 0.146s | RT: 14.986s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:48,446 - INFO - [Request 465] ⚠️ Failed (502) | Delay: 0.336s | RT: 10.187s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:48,649 - INFO - [Request 237] ⚠️ Failed (502) | Delay: 0.643s | RT: 9.958s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,021 - INFO - [Request 833] ⚠️ Failed (502) | Delay: 0.360s | RT: 7.032s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,114 - INFO - [Request 947] ⚠️ Failed (502) | Delay: 0.686s | RT: 8.402s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,148 - INFO - [Request 466] ⚠️ Failed (502) | Delay: 0.926s | RT: 11.602s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,290 - ERROR - [Request 162] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:49,335 - INFO - [Request 663] ⚠️ Failed (502) | Delay: 0.970s | RT: 9.356s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,460 - INFO - [Request 1380] ⚠️ Failed (502) | Delay: 0.810s | RT: 7.752s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,513 - INFO - [Request 684] ✅ Success (200) | Delay: 0.127s | RT: 13.848s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,622 - INFO - [Request 145] ⚠️ Failed (502) | Delay: 0.623s | RT: 11.020s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,747 - INFO - [Request 796] ⚠️ Failed (502) | Delay: 0.639s | RT: 13.583s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,897 - INFO - [Request 1179] ⚠️ Failed (502) | Delay: 0.238s | RT: 9.303s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,947 - INFO - [Request 296] ⚠️ Failed (502) | Delay: 0.299s | RT: 10.444s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:50,067 - ERROR - [Request 492] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:50,071 - ERROR - [Request 753] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:50,155 - ERROR - [Request 202] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:50,220 - INFO - [Request 730] ⚠️ Failed (502) | Delay: 0.388s | RT: 10.153s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:50,357 - INFO - [Request 99] ⚠️ Failed (502) | Delay: 0.700s | RT: 9.882s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:50,719 - INFO - [Request 1034] ⚠️ Failed (502) | Delay: 0.869s | RT: 7.212s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,395 - INFO - [Request 487] ⚠️ Failed (502) | Delay: 0.531s | RT: 13.264s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,462 - ERROR - [Request 506] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:51,550 - INFO - [Request 1469] ⚠️ Failed (502) | Delay: 0.671s | RT: 6.226s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:51,551 - INFO - [Request 217] ⚠️ Failed (502) | Delay: 0.972s | RT: 9.977s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,618 - INFO - [Request 1401] ⚠️ Failed (502) | Delay: 0.747s | RT: 7.115s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:51,657 - INFO - [Request 371] ⚠️ Failed (502) | Delay: 0.764s | RT: 11.606s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,703 - ERROR - [Request 205] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:51,703 - INFO - [Request 389] ⚠️ Failed (502) | Delay: 0.621s | RT: 8.654s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:51,753 - INFO - [Request 274] ⚠️ Failed (502) | Delay: 0.923s | RT: 11.375s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,790 - INFO - [Request 1102] ⚠️ Failed (502) | Delay: 0.224s | RT: 9.416s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:51,972 - INFO - [Request 1487] ⚠️ Failed (502) | Delay: 0.162s | RT: 1.044s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:52,018 - INFO - [Request 1555] ⚠️ Failed (502) | Delay: 0.766s | RT: 0.696s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:52,032 - ERROR - [Request 532] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:52,189 - INFO - [Request 945] ⚠️ Failed (502) | Delay: 0.867s | RT: 7.175s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:52,365 - INFO - [Request 1370] ⚠️ Failed (502) | Delay: 0.305s | RT: 8.344s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:52,420 - INFO - [Request 452] ⚠️ Failed (502) | Delay: 0.684s | RT: 10.381s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:52,572 - INFO - [Request 168] ⚠️ Failed (502) | Delay: 0.706s | RT: 11.283s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:53,154 - INFO - [Request 286] ⚠️ Failed (502) | Delay: 0.388s | RT: 9.889s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:53,384 - INFO - [Request 654] ⚠️ Failed (502) | Delay: 0.147s | RT: 12.012s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:53,425 - INFO - [Request 1337] ⚠️ Failed (502) | Delay: 0.868s | RT: 7.248s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:53,450 - ERROR - [Request 342] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:53,677 - ERROR - [Request 71] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0.>2026-03-30 14:58:54,775 - ERROR - [Request 481] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:54,787 - ERROR - [Request 739] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:55,576 - INFO - [Request 1136] ⚠️ Failed (502) | Delay: 0.424s | RT: 8.230s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:55,779 - INFO - [Request 1586] ⚠️ Failed (502) | Delay: 0.808s | RT: 0.991s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:55,867 - ERROR - [Request 585] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:55,893 - INFO - [Request 1524] ⚠️ Failed (502) | Delay: 0.365s | RT: 0.875s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:55,983 - INFO - [Request 981] ⚠️ Failed (502) | Delay: 0.253s | RT: 6.005s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:56,085 - INFO - [Request 1448] ⚠️ Failed (502) | Delay: 0.231s | RT: 8.391s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:56,099 - INFO - [Request 42] ⚠️ Failed (502) | Delay: 0.802s | RT: 11.429s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:56,305 - ERROR - [Request 160] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:56,811 - INFO - [Request 967] ⚠️ Failed (502) | Delay: 0.782s | RT: 6.796s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:56,837 - INFO - [Request 1233] ⚠️ Failed (502) | Delay: 0.872s | RT: 8.213s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:56,944 - INFO - [Request 1539] ⚠️ Failed (502) | Delay: 0.861s | RT: 1.008s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,031 - INFO - [Request 1148] ⚠️ Failed (502) | Delay: 0.549s | RT: 7.982s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,085 - ERROR - [Request 751] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:57,132 - INFO - [Request 1372] ⚠️ Failed (502) | Delay: 0.561s | RT: 6.384s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,240 - ERROR - [Request 608] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:57,457 - INFO - [Request 34] ⚠️ Failed (502) | Delay: 0.553s | RT: 10.189s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,596 - ERROR - [Request 323] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:57,925 - ERROR - [Request 238] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:58,022 - ERROR - [Request 641] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:58,351 - ERROR - [Request 399] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:58,530 - INFO - [Request 16] ⚠️ Failed (502) | Delay: 0.459s | RT: 11.852s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,530 - INFO - [Request 883] ⚠️ Failed (502) | Delay: 0.418s | RT: 8.363s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,723 - INFO - [Request 685] ⚠️ Failed (502) | Delay: 0.729s | RT: 12.018s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,723 - INFO - [Request 763] ⚠️ Failed (502) | Delay: 0.494s | RT: 12.785s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,848 - INFO - [Request 908] ⚠️ Failed (502) | Delay: 0.170s | RT: 6.186s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,924 - INFO - [Request 266] ⚠️ Failed (502) | Delay: 0.230s | RT: 12.016s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,954 - INFO - [Request 1014] ⚠️ Failed (502) | Delay: 0.381s | RT: 8.915s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,980 - INFO - [Request 994] ⚠️ Failed (502) | Delay: 0.670s | RT: 5.746s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,023 - INFO - [Request 1283] ⚠️ Failed (502) | Delay: 0.832s | RT: 8.251s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,057 - ERROR - [Request 409] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,174 - ERROR - [Request 240] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,407 - INFO - [Request 1032] ⚠️ Failed (502) | Delay: 0.198s | RT: 8.323s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,467 - INFO - [Request 788] ⚠️ Failed (502) | Delay: 0.678s | RT: 8.030s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,632 - INFO - [Request 937] ⚠️ Failed (502) | Delay: 0.192s | RT: 8.554s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,833 - ERROR - [Request 565] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,884 - INFO - [Request 581] ⚠️ Failed (502) | Delay: 0.614s | RT: 14.294s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,886 - ERROR - [Request 668] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,965 - INFO - [Request 1204] ⚠️ Failed (502) | Delay: 0.322s | RT: 8.204s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,086 - INFO - [Request 698] ⚠️ Failed (502) | Delay: 0.358s | RT: 12.889s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,085 - INFO - [Request 1340] ⚠️ Failed (502) | Delay: 0.138s | RT: 8.694s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,246 - ERROR - [Request 353] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,349 - INFO - [Request 1250] ⚠️ Failed (502) | Delay: 0.449s | RT: 7.998s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,398 - ERROR - [Request 561] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,493 - INFO - [Request 1525] ⚠️ Failed (502) | Delay: 0.568s | RT: 1.068s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,517 - INFO - [Request 673] ⚠️ Failed (502) | Delay: 0.321s | RT: 15.573s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,691 - ERROR - [Request 418] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,711 - ERROR - [Request 638] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,798 - ERROR - [Request 123] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,895 - INFO - [Request 1536] ⚠️ Failed (502) | Delay: 0.553s | RT: 0.857s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,989 - ERROR - [Request 390] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:01,183 - INFO - [Request 1344] ⚠️ Failed (502) | Delay: 0.485s | RT: 7.551s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,425 - INFO - [Request 1348] ⚠️ Failed (502) | Delay: 0.238s | RT: 7.355s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,604 - INFO - [Request 1028] ⚠️ Failed (502) | Delay: 0.215s | RT: 7.653s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,649 - ERROR - [Request 76] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0.>
+2026-03-30 14:59:01,812 - INFO - [Request 1088] ⚠️ Failed (502) | Delay: 0.862s | RT: 7.042s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,946 - INFO - [Request 13] ⚠️ Failed (502) | Delay: 0.814s | RT: 11.301s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,036 - INFO - [Request 939] ⚠️ Failed (502) | Delay: 0.814s | RT: 9.253s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,096 - INFO - [Request 1271] ⚠️ Failed (502) | Delay: 1.000s | RT: 7.257s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,135 - INFO - [Request 1287] ⚠️ Failed (502) | Delay: 0.594s | RT: 6.288s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,314 - ERROR - [Request 192] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:02,507 - INFO - [Request 1081] ⚠️ Failed (502) | Delay: 0.924s | RT: 7.677s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,626 - ERROR - [Request 312] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:02,629 - INFO - [Request 1470] ⚠️ Failed (502) | Delay: 0.311s | RT: 7.718s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,750 - INFO - [Request 697] ⚠️ Failed (502) | Delay: 0.162s | RT: 11.908s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,091 - INFO - [Request 530] ⚠️ Failed (502) | Delay: 0.913s | RT: 9.871s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,249 - INFO - [Request 1057] ⚠️ Failed (502) | Delay: 0.106s | RT: 5.425s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,325 - INFO - [Request 1601] ⚠️ Failed (502) | Delay: 0.832s | RT: 1.154s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,503 - INFO - [Request 936] ⚠️ Failed (502) | Delay: 0.482s | RT: 5.358s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,536 - INFO - [Request 1094] ⚠️ Failed (502) | Delay: 0.144s | RT: 8.172s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,539 - INFO - [Request 1074] ⚠️ Failed (502) | Delay: 0.577s | RT: 8.689s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,605 - INFO - [Request 793] ⚠️ Failed (502) | Delay: 0.494s | RT: 10.065s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,628 - INFO - [Request 802] ⚠️ Failed (502) | Delay: 0.263s | RT: 12.264s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,861 - INFO - [Request 1441] ⚠️ Failed (502) | Delay: 0.749s | RT: 7.725s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,959 - INFO - [Request 1479] ⚠️ Failed (502) | Delay: 0.465s | RT: 1.824s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,959 - ERROR - [Request 11] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0.>
+2026-03-30 14:59:04,120 - ERROR - [Request 267] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,147 - INFO - [Request 1613] ⚠️ Failed (502) | Delay: 0.766s | RT: 1.334s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:04,247 - ERROR - [Request 467] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,401 - ERROR - [Request 407] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,708 - ERROR - [Request 250] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,730 - INFO - [Request 1066] ⚠️ Failed (502) | Delay: 0.207s | RT: 8.338s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:04,896 - INFO - [Request 232] ⚠️ Failed (502) | Delay: 0.276s | RT: 11.892s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,072 - INFO - [Request 479] ⚠️ Failed (502) | Delay: 0.830s | RT: 11.331s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,137 - INFO - [Request 548] ⚠️ Failed (502) | Delay: 0.790s | RT: 9.610s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,372 - INFO - [Request 671] ⚠️ Failed (502) | Delay: 0.167s | RT: 13.482s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,423 - ERROR - [Request 280] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:05,592 - INFO - [Request 1082] ⚠️ Failed (502) | Delay: 0.658s | RT: 8.424s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,798 - ERROR - [Request 616] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:05,817 - INFO - [Request 1327] ⚠️ Failed (502) | Delay: 0.691s | RT: 8.031s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,821 - INFO - [Request 380] ⚠️ Failed (502) | Delay: 0.970s | RT: 11.911s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,822 - ERROR - [Request 742] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:05,914 - ERROR - [Request 469] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,124 - ERROR - [Request 413] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,158 - INFO - [Request 1554] ⚠️ Failed (502) | Delay: 0.144s | RT: 1.364s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,252 - INFO - [Request 951] ⚠️ Failed (502) | Delay: 0.569s | RT: 6.438s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,270 - ERROR - [Request 363] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,293 - INFO - [Request 1328] ⚠️ Failed (502) | Delay: 0.466s | RT: 7.735s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,306 - ERROR - [Request 564] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,415 - INFO - [Request 260] ⚠️ Failed (502) | Delay: 0.572s | RT: 10.402s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,447 - INFO - [Request 859] ⚠️ Failed (502) | Delay: 0.929s | RT: 8.291s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,534 - ERROR - [Request 226] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,660 - INFO - [Request 782] ⚠️ Failed (502) | Delay: 0.741s | RT: 11.161s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,895 - INFO - [Request 905] ⚠️ Failed (502) | Delay: 0.405s | RT: 8.731s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,051 - INFO - [Request 1383] ⚠️ Failed (502) | Delay: 0.403s | RT: 7.395s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,126 - INFO - [Request 1303] ⚠️ Failed (502) | Delay: 0.464s | RT: 8.157s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,258 - INFO - [Request 1458] ⚠️ Failed (502) | Delay: 0.447s | RT: 8.158s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,438 - INFO - [Request 1443] ⚠️ Failed (502) | Delay: 0.717s | RT: 6.720s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,555 - INFO - [Request 1684] ⚠️ Failed (502) | Delay: 0.281s | RT: 1.232s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,672 - INFO - [Request 1055] ⚠️ Failed (502) | Delay: 0.159s | RT: 6.328s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,672 - INFO - [Request 809] ⚠️ Failed (502) | Delay: 0.611s | RT: 6.859s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,884 - INFO - [Request 1234] ⚠️ Failed (502) | Delay: 0.244s | RT: 6.654s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:39,398 - INFO - [Request 82] ✅ Success (200) | Delay: 0.110s | RT: 9.976s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,038 - INFO - [Request 554] ⚠️ Failed (502) | Delay: 0.613s | RT: 9.683s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,177 - INFO - [Request 582] ⚠️ Failed (502) | Delay: 0.491s | RT: 9.758s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,177 - INFO - [Request 146] ⚠️ Failed (502) | Delay: 0.910s | RT: 8.703s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:40,317 - INFO - [Request 172] ⚠️ Failed (502) | Delay: 0.864s | RT: 9.617s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:41,758 - INFO - [Request 67] ⚠️ Failed (502) | Delay: 0.355s | RT: 10.265s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,207 - INFO - [Request 96] ⚠️ Failed (502) | Delay: 0.585s | RT: 10.129s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,269 - INFO - [Request 789] ⚠️ Failed (502) | Delay: 0.439s | RT: 10.064s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,411 - INFO - [Request 786] ⚠️ Failed (502) | Delay: 0.193s | RT: 10.042s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:43,512 - INFO - [Request 630] ⚠️ Failed (502) | Delay: 0.555s | RT: 8.277s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:44,530 - INFO - [Request 78] ⚠️ Failed (502) | Delay: 0.535s | RT: 9.770s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:45,295 - INFO - [Request 227] ⚠️ Failed (502) | Delay: 0.775s | RT: 9.907s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:45,768 - INFO - [Request 365] ⚠️ Failed (502) | Delay: 0.243s | RT: 10.568s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:46,930 - INFO - [Request 259] ⚠️ Failed (502) | Delay: 0.293s | RT: 10.405s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:48,261 - INFO - [Request 43] ✅ Success (200) | Delay: 0.146s | RT: 14.986s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:48,446 - INFO - [Request 465] ⚠️ Failed (502) | Delay: 0.336s | RT: 10.187s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:48,649 - INFO - [Request 237] ⚠️ Failed (502) | Delay: 0.643s | RT: 9.958s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,021 - INFO - [Request 833] ⚠️ Failed (502) | Delay: 0.360s | RT: 7.032s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,114 - INFO - [Request 947] ⚠️ Failed (502) | Delay: 0.686s | RT: 8.402s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,148 - INFO - [Request 466] ⚠️ Failed (502) | Delay: 0.926s | RT: 11.602s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,290 - ERROR - [Request 162] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:49,335 - INFO - [Request 663] ⚠️ Failed (502) | Delay: 0.970s | RT: 9.356s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,460 - INFO - [Request 1380] ⚠️ Failed (502) | Delay: 0.810s | RT: 7.752s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,513 - INFO - [Request 684] ✅ Success (200) | Delay: 0.127s | RT: 13.848s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,622 - INFO - [Request 145] ⚠️ Failed (502) | Delay: 0.623s | RT: 11.020s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,747 - INFO - [Request 796] ⚠️ Failed (502) | Delay: 0.639s | RT: 13.583s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,897 - INFO - [Request 1179] ⚠️ Failed (502) | Delay: 0.238s | RT: 9.303s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:49,947 - INFO - [Request 296] ⚠️ Failed (502) | Delay: 0.299s | RT: 10.444s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:50,067 - ERROR - [Request 492] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:50,071 - ERROR - [Request 753] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:50,155 - ERROR - [Request 202] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:50,220 - INFO - [Request 730] ⚠️ Failed (502) | Delay: 0.388s | RT: 10.153s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:50,357 - INFO - [Request 99] ⚠️ Failed (502) | Delay: 0.700s | RT: 9.882s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:50,719 - INFO - [Request 1034] ⚠️ Failed (502) | Delay: 0.869s | RT: 7.212s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,395 - INFO - [Request 487] ⚠️ Failed (502) | Delay: 0.531s | RT: 13.264s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,462 - ERROR - [Request 506] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:51,550 - INFO - [Request 1469] ⚠️ Failed (502) | Delay: 0.671s | RT: 6.226s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:51,551 - INFO - [Request 217] ⚠️ Failed (502) | Delay: 0.972s | RT: 9.977s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,618 - INFO - [Request 1401] ⚠️ Failed (502) | Delay: 0.747s | RT: 7.115s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:51,657 - INFO - [Request 371] ⚠️ Failed (502) | Delay: 0.764s | RT: 11.606s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,703 - ERROR - [Request 205] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:51,703 - INFO - [Request 389] ⚠️ Failed (502) | Delay: 0.621s | RT: 8.654s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:51,753 - INFO - [Request 274] ⚠️ Failed (502) | Delay: 0.923s | RT: 11.375s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:51,790 - INFO - [Request 1102] ⚠️ Failed (502) | Delay: 0.224s | RT: 9.416s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:51,972 - INFO - [Request 1487] ⚠️ Failed (502) | Delay: 0.162s | RT: 1.044s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:52,018 - INFO - [Request 1555] ⚠️ Failed (502) | Delay: 0.766s | RT: 0.696s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:52,032 - ERROR - [Request 532] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:52,189 - INFO - [Request 945] ⚠️ Failed (502) | Delay: 0.867s | RT: 7.175s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:52,365 - INFO - [Request 1370] ⚠️ Failed (502) | Delay: 0.305s | RT: 8.344s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:52,420 - INFO - [Request 452] ⚠️ Failed (502) | Delay: 0.684s | RT: 10.381s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:52,572 - INFO - [Request 168] ⚠️ Failed (502) | Delay: 0.706s | RT: 11.283s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:53,154 - INFO - [Request 286] ⚠️ Failed (502) | Delay: 0.388s | RT: 9.889s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:53,384 - INFO - [Request 654] ⚠️ Failed (502) | Delay: 0.147s | RT: 12.012s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:53,425 - INFO - [Request 1337] ⚠️ Failed (502) | Delay: 0.868s | RT: 7.248s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:53,450 - ERROR - [Request 342] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:53,677 - ERROR - [Request 71] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0.>2026-03-30 14:58:54,775 - ERROR - [Request 481] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>2026-03-30 14:58:54,787 - ERROR - [Request 739] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:55,576 - INFO - [Request 1136] ⚠️ Failed (502) | Delay: 0.424s | RT: 8.230s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:55,779 - INFO - [Request 1586] ⚠️ Failed (502) | Delay: 0.808s | RT: 0.991s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:55,867 - ERROR - [Request 585] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:55,893 - INFO - [Request 1524] ⚠️ Failed (502) | Delay: 0.365s | RT: 0.875s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:55,983 - INFO - [Request 981] ⚠️ Failed (502) | Delay: 0.253s | RT: 6.005s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:56,085 - INFO - [Request 1448] ⚠️ Failed (502) | Delay: 0.231s | RT: 8.391s | UA: Mozilla/5.0 (default UA)                                2026-03-30 14:58:56,099 - INFO - [Request 42] ⚠️ Failed (502) | Delay: 0.802s | RT: 11.429s | UA: Mozilla/5.0 (default UA)                                 2026-03-30 14:58:56,305 - ERROR - [Request 160] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:56,811 - INFO - [Request 967] ⚠️ Failed (502) | Delay: 0.782s | RT: 6.796s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:56,837 - INFO - [Request 1233] ⚠️ Failed (502) | Delay: 0.872s | RT: 8.213s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:56,944 - INFO - [Request 1539] ⚠️ Failed (502) | Delay: 0.861s | RT: 1.008s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,031 - INFO - [Request 1148] ⚠️ Failed (502) | Delay: 0.549s | RT: 7.982s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,085 - ERROR - [Request 751] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:57,132 - INFO - [Request 1372] ⚠️ Failed (502) | Delay: 0.561s | RT: 6.384s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,240 - ERROR - [Request 608] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:57,457 - INFO - [Request 34] ⚠️ Failed (502) | Delay: 0.553s | RT: 10.189s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:57,596 - ERROR - [Request 323] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:57,925 - ERROR - [Request 238] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:58,022 - ERROR - [Request 641] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:58,351 - ERROR - [Request 399] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:58,530 - INFO - [Request 16] ⚠️ Failed (502) | Delay: 0.459s | RT: 11.852s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,530 - INFO - [Request 883] ⚠️ Failed (502) | Delay: 0.418s | RT: 8.363s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,723 - INFO - [Request 685] ⚠️ Failed (502) | Delay: 0.729s | RT: 12.018s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,723 - INFO - [Request 763] ⚠️ Failed (502) | Delay: 0.494s | RT: 12.785s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,848 - INFO - [Request 908] ⚠️ Failed (502) | Delay: 0.170s | RT: 6.186s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,924 - INFO - [Request 266] ⚠️ Failed (502) | Delay: 0.230s | RT: 12.016s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,954 - INFO - [Request 1014] ⚠️ Failed (502) | Delay: 0.381s | RT: 8.915s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:58,980 - INFO - [Request 994] ⚠️ Failed (502) | Delay: 0.670s | RT: 5.746s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,023 - INFO - [Request 1283] ⚠️ Failed (502) | Delay: 0.832s | RT: 8.251s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,057 - ERROR - [Request 409] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,174 - ERROR - [Request 240] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,407 - INFO - [Request 1032] ⚠️ Failed (502) | Delay: 0.198s | RT: 8.323s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,467 - INFO - [Request 788] ⚠️ Failed (502) | Delay: 0.678s | RT: 8.030s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,632 - INFO - [Request 937] ⚠️ Failed (502) | Delay: 0.192s | RT: 8.554s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,833 - ERROR - [Request 565] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,884 - INFO - [Request 581] ⚠️ Failed (502) | Delay: 0.614s | RT: 14.294s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:58:59,886 - ERROR - [Request 668] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:58:59,965 - INFO - [Request 1204] ⚠️ Failed (502) | Delay: 0.322s | RT: 8.204s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,086 - INFO - [Request 698] ⚠️ Failed (502) | Delay: 0.358s | RT: 12.889s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,085 - INFO - [Request 1340] ⚠️ Failed (502) | Delay: 0.138s | RT: 8.694s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,246 - ERROR - [Request 353] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,349 - INFO - [Request 1250] ⚠️ Failed (502) | Delay: 0.449s | RT: 7.998s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,398 - ERROR - [Request 561] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,493 - INFO - [Request 1525] ⚠️ Failed (502) | Delay: 0.568s | RT: 1.068s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,517 - INFO - [Request 673] ⚠️ Failed (502) | Delay: 0.321s | RT: 15.573s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,691 - ERROR - [Request 418] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,711 - ERROR - [Request 638] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,798 - ERROR - [Request 123] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:00,895 - INFO - [Request 1536] ⚠️ Failed (502) | Delay: 0.553s | RT: 0.857s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:00,989 - ERROR - [Request 390] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:01,183 - INFO - [Request 1344] ⚠️ Failed (502) | Delay: 0.485s | RT: 7.551s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,425 - INFO - [Request 1348] ⚠️ Failed (502) | Delay: 0.238s | RT: 7.355s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,604 - INFO - [Request 1028] ⚠️ Failed (502) | Delay: 0.215s | RT: 7.653s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,649 - ERROR - [Request 76] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0.>
+2026-03-30 14:59:01,812 - INFO - [Request 1088] ⚠️ Failed (502) | Delay: 0.862s | RT: 7.042s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:01,946 - INFO - [Request 13] ⚠️ Failed (502) | Delay: 0.814s | RT: 11.301s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,036 - INFO - [Request 939] ⚠️ Failed (502) | Delay: 0.814s | RT: 9.253s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,096 - INFO - [Request 1271] ⚠️ Failed (502) | Delay: 1.000s | RT: 7.257s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,135 - INFO - [Request 1287] ⚠️ Failed (502) | Delay: 0.594s | RT: 6.288s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,314 - ERROR - [Request 192] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:02,507 - INFO - [Request 1081] ⚠️ Failed (502) | Delay: 0.924s | RT: 7.677s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,626 - ERROR - [Request 312] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:02,629 - INFO - [Request 1470] ⚠️ Failed (502) | Delay: 0.311s | RT: 7.718s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:02,750 - INFO - [Request 697] ⚠️ Failed (502) | Delay: 0.162s | RT: 11.908s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,091 - INFO - [Request 530] ⚠️ Failed (502) | Delay: 0.913s | RT: 9.871s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,249 - INFO - [Request 1057] ⚠️ Failed (502) | Delay: 0.106s | RT: 5.425s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,325 - INFO - [Request 1601] ⚠️ Failed (502) | Delay: 0.832s | RT: 1.154s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,503 - INFO - [Request 936] ⚠️ Failed (502) | Delay: 0.482s | RT: 5.358s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,536 - INFO - [Request 1094] ⚠️ Failed (502) | Delay: 0.144s | RT: 8.172s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,539 - INFO - [Request 1074] ⚠️ Failed (502) | Delay: 0.577s | RT: 8.689s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,605 - INFO - [Request 793] ⚠️ Failed (502) | Delay: 0.494s | RT: 10.065s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,628 - INFO - [Request 802] ⚠️ Failed (502) | Delay: 0.263s | RT: 12.264s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,861 - INFO - [Request 1441] ⚠️ Failed (502) | Delay: 0.749s | RT: 7.725s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,959 - INFO - [Request 1479] ⚠️ Failed (502) | Delay: 0.465s | RT: 1.824s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:03,959 - ERROR - [Request 11] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0.>
+2026-03-30 14:59:04,120 - ERROR - [Request 267] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,147 - INFO - [Request 1613] ⚠️ Failed (502) | Delay: 0.766s | RT: 1.334s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:04,247 - ERROR - [Request 467] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,401 - ERROR - [Request 407] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,708 - ERROR - [Request 250] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:04,730 - INFO - [Request 1066] ⚠️ Failed (502) | Delay: 0.207s | RT: 8.338s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:04,896 - INFO - [Request 232] ⚠️ Failed (502) | Delay: 0.276s | RT: 11.892s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,072 - INFO - [Request 479] ⚠️ Failed (502) | Delay: 0.830s | RT: 11.331s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,137 - INFO - [Request 548] ⚠️ Failed (502) | Delay: 0.790s | RT: 9.610s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,372 - INFO - [Request 671] ⚠️ Failed (502) | Delay: 0.167s | RT: 13.482s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,423 - ERROR - [Request 280] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:05,592 - INFO - [Request 1082] ⚠️ Failed (502) | Delay: 0.658s | RT: 8.424s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,798 - ERROR - [Request 616] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:05,817 - INFO - [Request 1327] ⚠️ Failed (502) | Delay: 0.691s | RT: 8.031s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,821 - INFO - [Request 380] ⚠️ Failed (502) | Delay: 0.970s | RT: 11.911s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:05,822 - ERROR - [Request 742] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:05,914 - ERROR - [Request 469] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,124 - ERROR - [Request 413] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,158 - INFO - [Request 1554] ⚠️ Failed (502) | Delay: 0.144s | RT: 1.364s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,252 - INFO - [Request 951] ⚠️ Failed (502) | Delay: 0.569s | RT: 6.438s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,270 - ERROR - [Request 363] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,293 - INFO - [Request 1328] ⚠️ Failed (502) | Delay: 0.466s | RT: 7.735s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,306 - ERROR - [Request 564] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,415 - INFO - [Request 260] ⚠️ Failed (502) | Delay: 0.572s | RT: 10.402s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,447 - INFO - [Request 859] ⚠️ Failed (502) | Delay: 0.929s | RT: 8.291s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,534 - ERROR - [Request 226] ❌ Error: HTTPSConnectionPool(host='lula.com.br', port=443): Read timed out. (read timeout=10) | Delay: 0>
+2026-03-30 14:59:06,660 - INFO - [Request 782] ⚠️ Failed (502) | Delay: 0.741s | RT: 11.161s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:06,895 - INFO - [Request 905] ⚠️ Failed (502) | Delay: 0.405s | RT: 8.731s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,051 - INFO - [Request 1383] ⚠️ Failed (502) | Delay: 0.403s | RT: 7.395s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,126 - INFO - [Request 1303] ⚠️ Failed (502) | Delay: 0.464s | RT: 8.157s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,258 - INFO - [Request 1458] ⚠️ Failed (502) | Delay: 0.447s | RT: 8.158s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,438 - INFO - [Request 1443] ⚠️ Failed (502) | Delay: 0.717s | RT: 6.720s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,555 - INFO - [Request 1684] ⚠️ Failed (502) | Delay: 0.281s | RT: 1.232s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,672 - INFO - [Request 1055] ⚠️ Failed (502) | Delay: 0.159s | RT: 6.328s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,672 - INFO - [Request 809] ⚠️ Failed (502) | Delay: 0.611s | RT: 6.859s | UA: Mozilla/5.0 (default UA)
+2026-03-30 14:59:07,884 - INFO - [Request 1234] ⚠️ Failed (502) | Delay: 0.244s | RT: 6.654s | UA: Mozilla/5.0 (default UA)
