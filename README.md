@@ -13,7 +13,7 @@ pip (Python package manager)
 1 Clone the Repository
 git clone https://github.com/the0dark00/TheGod-Ddos.git
 
-cd thegod
+cd TheGod-Ddos
 
 2 Install Requirements
 All dependencies are listed in requirements.txt.
@@ -28,11 +28,11 @@ Termux:
 
 3 git clone https://github.com/the0dark00/TheGod-Ddos.git
 
-4 cd thegod
+4 cd TheGod-Ddos
 
 5 pip install -r requirements.txt
 
-6 python3 dos.py
+6 python3 start.py
 
 
 
@@ -43,11 +43,11 @@ Debian-based GNU/Linux:
 
 3 git clone https://github.com/the0dark00/TheGod-Ddos.git
 
-4 cd thegod 
+4 cd TheGod-Ddos
 
 5 pip3 install -r requirements.txt
 
-6 python3 dos.py
+6 python3 start.py
 
 
 
@@ -58,11 +58,11 @@ Windows:
 
 3 git clone https://github.com/the0dark00/TheGod-Ddos.git
 
-4 cd thegod
+4 cd TheGod-Ddos
 
 5 pip install -r requirements.txt
 
-6 python dos.py
+6 python start.py
 
 
 
