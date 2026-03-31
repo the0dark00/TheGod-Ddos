@@ -22,6 +22,7 @@ Step-by-Step Usage Instructions
 
 
 Termux:
+
 1 pkg update && pkg upgrade
 
 2 pkg install git python
@@ -37,6 +38,7 @@ Termux:
 
 
 Debian-based GNU/Linux:
+
 1 sudo apt update && sudo apt upgrade
 
 2 sudo apt install git python3 python3-pip
@@ -52,6 +54,7 @@ Debian-based GNU/Linux:
 
 
 Windows:
+
 1 Download & install Python.
 
 2 Open cmd or PowerShell and run:
@@ -67,6 +70,7 @@ Windows:
 
 
 MacOS:
+
 1 brew install git python3
 
 2 git clone https://github.com/the0dark00/TheGod-Ddos.git
